@@ -1,9 +1,13 @@
-Project Infinity-X 4.2 (breeze)
-Release Date: 11.11.2026
+WandererOS 1.0 (breeze)
+Release Date: 15.11.2026
 ================================
 
-- HyperOS Camera: full fixes and hardware JPEG processing
-- Bundled swipe gesture typing for AOSP keyboard
-- Fixed SIM detection and network connectivity
-- Fixed Consumer IR blaster range
-- Upstream source updates
+- Initial official release of WandererOS 1.0 based on Android 17 (Baklava)
+- UI & Smoothness: Locked 120Hz display refresh rate, SurfaceFlinger pacing, eliminated GPU background blurs for 120fps Quick Settings
+- Auto-Confirm PIN: Unlock 4-digit PIN immediately without pressing Enter
+- Hotspot: Added Connected Devices manager, client connection limit, client block/unblock, and Hidden SSID toggle
+- Network: Added LTE Carrier Aggregation toggle in Mobile Network Settings
+- Play Integrity & Spoofing: Integrated AxionAOSP Play Integrity architecture with KeyboxDataPreference, target package cloaking, PIF repository fetcher, and Google Photos unlimited backup
+- Preinstalled Google Apps: Integrated GooglePhotos (Pixel 8) and Velvet (Google Search & Assistant)
+- Stock Launcher: Trebuchet (Launcher3QuickStep) preserved with smooth gesture navigation
+- Hardware: Full support for 108MP camera, Consumer IR blaster, side-mounted fingerprint, and 5030mAh battery charging control

@@ -1,13 +1,17 @@
 {
   "response": [
     {
-      "filename": "Project_Infinity-X-4.2-breeze-11.11.2026-GAPPS-RELEASE.zip",
-      "download": "https://github.com/Wanderer-s-Development/OTA/releases/download/v4.2-breeze-11.11.2026/Project_Infinity-X-4.2-breeze-11.11.2026-GAPPS-RELEASE.zip",
-      "timestamp": 1794367099,
-      "md5": "cec1adc3a66269b2210c37e8dd949bf3",
-      "size": 1938146907,
-      "version": "4.2",
-      "url": "https://github.com/Wanderer-s-Development/OTA/releases/download/v4.2-breeze-11.11.2026/Project_Infinity-X-4.2-breeze-11.11.2026-GAPPS-RELEASE.zip"
+      "datetime": 1794719753,
+      "timestamp": 1794719753,
+      "filename": "WandererOS-1.0-20261115-RELEASE-breeze.zip",
+      "id": "95c182cdc8c1e82488440f3d7e1630c972262cb7add8997468935c4478e1c1ce",
+      "md5": "7d8f9efedf5476d0bc3fa190cc64f72d",
+      "sha256": "95c182cdc8c1e82488440f3d7e1630c972262cb7add8997468935c4478e1c1ce",
+      "size": 1592930212,
+      "version": "1.0",
+      "romtype": "RELEASE",
+      "url": "https://github.com/Wanderer-s-Development/OTA/releases/download/v1.0-wanderer-breeze-15.11.2026/WandererOS-1.0-20261115-RELEASE-breeze.zip",
+      "download": "https://github.com/Wanderer-s-Development/OTA/releases/download/v1.0-wanderer-breeze-15.11.2026/WandererOS-1.0-20261115-RELEASE-breeze.zip"
     }
   ]
 }
